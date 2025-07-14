@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bezeeta222&label=Profile%20views&color=0e75b6&style=flat" alt="bezeeta222" /> </p>
 
-- 🔭 I’m currently working on [XAMBLE SOCIAL WALLET](https://apps.apple.com/my/app/xamble-social-wallet/id6446575199)
 
 - 🌱 I’m currently learning **NEXTJS , NESTJS ,MLLM,ILLAMA,AI**
 
